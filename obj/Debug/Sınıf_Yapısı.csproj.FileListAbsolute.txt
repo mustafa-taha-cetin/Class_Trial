@@ -1,0 +1,12 @@
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\bin\Debug\Sınıf_Yapısı.exe.config
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\bin\Debug\Sınıf_Yapısı.exe
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\bin\Debug\Sınıf_Yapısı.pdb
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.Form1.resources
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.Form2.resources
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.exe
+C:\Users\USER01\Desktop\C#\Sınıf_Yapısı\Sınıf_Yapısı\obj\Debug\Sınıf_Yapısı.pdb
